@@ -6,3 +6,79 @@ Jaspers Johnson: hello
 Bot: Hi Jaspers Johnson! Ready to plan your meals for the week? Just reply with your preferences!
 Jaspers Johnson: Now I'm really hungry
 MaxShack Meal Planning: Hi Jaspers Johnson! Ready to plan your meals for the week? Just reply with your preferences!
+Jaspers Johnson: hi there
+MaxShack Meal Planning: Hi Jaspers Johnson! Ready to plan your meals for the week? Just reply with your preferences!
+[2025-07-15 19:38:13]Jaspers Johnson: hi
+[2025-07-15 19:38:14]MaxShack Meal Planning: Hi Jaspers Johnson! Ready to plan your meals for the week? Just reply with your preferences!
+[2025-07-15 19:42:28 PDT-0700]Jaspers Johnson: hello
+[2025-07-15 19:42:28 PDT-0700]MaxShack Meal Planning: Hi Jaspers Johnson! Ready to plan your meals for the week? Just reply with your preferences!
+[2025-07-15 20:27:27 PDT-0700]Jaspers Johnson: I want low-carb dinners under 30 minutes this week
+[2025-07-15 20:27:27 PDT-0700]MaxShack Meal Planning: Hi Jaspers Johnson! Ready to plan your meals for the week? Just reply with your preferences!
+[2025-07-15 20:51:09 PDT-0700]Jaspers Johnson: I want low carb dinners under 30 minutes this week
+[2025-07-15 20:51:10 PDT-0700]MaxShack Meal Planning: Hi Jaspers Johnson! Ready to plan your meals for the week? Just reply with your preferences!
+[2025-07-15 21:29:25 PDT-0700]Jaspers Johnson: hello
+[2025-07-15 21:29:28 PDT-0700]MaxShack Meal Planning: Generated meal plan:
+I'm sorry, but you've only provided "hello" as a preference. Could you please provide more information about dietary restrictions, cuisine preferences, allergies, or specific foods that you like or dislike? This information will help me create a better meal plan for you.
+[2025-07-15 21:55:32 PDT-0700] Jaspers Johnson: I want low-carb dinners under 30 minutes this week
+[2025-07-15 21:55:38 PDT-0700] MaxShack Meal Planning: Monday: Grilled Chicken Salad - A fresh salad with grilled chicken, romaine lettuce, cherry tomatoes, cucumber, and a low-carb dressing of your choice. (Time: 20 mins)
+
+Tuesday: Shrimp Stir-fry - Quick and easy stir-fry with vegetables of your choice and seasoned shrimp. (Time: 25 mins)
+
+Wednesday: Eggplant Parmesan - Baked eggplant slices with a sprinkling of parmesan cheese and marinara sauce. (Time: 30 mins)
+
+Thursday: Salmon Foil Packets - Seasoned salmon fillets cooked with bell peppers, zucchini, and onions in foil packets. (Time: 25 mins)
+
+Friday: Turkey Lettuce Wraps - Ground turkey cooked with peppers, onions, and spices, served in crisp lettuce wraps. (Time: 20 mins)
+[2025-07-15 21:56:24 PDT-0700] Jaspers Johnson: i will only be eating at home three times this week
+[2025-07-15 21:56:30 PDT-0700] MaxShack Meal Planning: Sure, here's a meal plan for your week:
+
+Monday: 
+Chicken Stir Fry - A delicious mix of chicken, bell peppers, onions, and a tangy sauce. (Time: 30 mins)
+
+Tuesday: 
+Mushroom Risotto - Creamy, flavorful risotto made with arborio rice and sautéed mushrooms. (Time: 45 mins)
+
+Wednesday: 
+Out
+
+Thursday: 
+Grilled Salmon with Lemon Dill Sauce - Perfectly grilled salmon served with a tangy, fresh lemon dill sauce. (Time: 30 mins)
+
+Friday: 
+Out
+
+Saturday: 
+Out
+
+Sunday: 
+Spinach and Feta Stuffed Chicken - Tender chicken breast stuffed with spinach and feta, then baked to perfection. (Time: 45 mins)
+[2025-07-15 21:58:09 PDT-0700] Jaspers Johnson: I will only be eating at home monday, tuesday and thursday
+[2025-07-15 21:58:14 PDT-0700] MaxShack Meal Planning: Monday: Spaghetti Aglio e Olio - A classic Italian dish made with garlic, olive oil, and chili flakes tossed in spaghetti. Served with a side of garlic bread. (Time: 30 mins)
+
+Tuesday: Grilled Salmon with Quinoa - A healthy and delicious meal where the salmon is seasoned with herbs and grilled. Served with a side of quinoa cooked with vegetables. (Time: 40 mins)
+
+Wednesday: Meal not needed as you're not eating at home.
+
+Thursday: Chicken Stir Fry - A quick and easy dish made with chicken, bell peppers, and broccoli cooked in a savory sauce. Served with steamed rice. (Time: 30 mins)
+
+Friday: Meal not needed as you're not eating at home.
+[2025-07-15 22:00:53 PDT-0700] Jaspers Johnson: i'd like 3 meals, all under 30 minutes
+[2025-07-15 22:01:03 PDT-0700] MaxShack Meal Planning: Monday: Chickpea Salad - A refreshing and hearty salad made with chickpeas, cucumbers, tomatoes, feta cheese, and a tangy lemon dressing. (Time: 20 mins)
+
+Tuesday: Shrimp Stir Fry - A quick and easy stir fry with shrimp, bell peppers, onions, and a savory soy-ginger sauce served over rice. (Time: 25 mins)
+
+Wednesday: Caprese Flatbread - A simple and delicious flatbread topped with mozzarella, tomatoes, basil, and a balsamic glaze. (Time: 15 mins)
+
+Thursday: Chicken Quesadillas - A quick dinner option loaded with chicken, cheese, and bell peppers, served with salsa and sour cream. (Time: 30 mins)
+
+Friday: Salmon and Asparagus Foil Packs - Easy and healthy dinner option with salmon, asparagus, garlic, and lemon cooked in a foil pack. (Time: 25 mins)
+[2025-07-15 23:10:22 PDT-0700] Jaspers Johnson: I would like 3 vegetarian meals this week
+[2025-07-15 23:10:28 PDT-0700] MaxShack Meal Planning: [
+  {"name":"Vegetarian Lasagna", "description":"Layers of pasta, vegetables, and cheese baked to perfection", "time_minutes":60},
+  {"name":"Quinoa Salad", "description":"A refreshing salad with quinoa, cucumbers, tomatoes, and a tangy vinaigrette", "time_minutes":15},
+  {"name":"Vegetable Stir Fry", "description":"A quick and easy stir fry with a variety of colorful vegetables", "time_minutes":30}
+]
+[2025-07-15 23:28:26 PDT-0700] Jaspers Johnson: I would like 3 vegetarian meals this week
+[2025-07-15 23:28:31 PDT-0700] MaxShack Meal Planning: - *Vegetarian Lasagna* (60 min): A hearty lasagna made with layers of pasta, ricotta, mozzarella, and marinara sauce, filled with fresh vegetables
+- *Quinoa Salad* (30 min): A refreshing salad made with quinoa, cucumbers, tomatoes, and a tangy lemon dressing
+- *Vegetable Stir Fry* (20 min): A quick and easy stir fry made with a variety of fresh vegetables and a savory sauce
