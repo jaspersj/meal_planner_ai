@@ -82,3 +82,8 @@ Friday: Salmon and Asparagus Foil Packs - Easy and healthy dinner option with sa
 [2025-07-15 23:28:31 PDT-0700] MaxShack Meal Planning: - *Vegetarian Lasagna* (60 min): A hearty lasagna made with layers of pasta, ricotta, mozzarella, and marinara sauce, filled with fresh vegetables
 - *Quinoa Salad* (30 min): A refreshing salad made with quinoa, cucumbers, tomatoes, and a tangy lemon dressing
 - *Vegetable Stir Fry* (20 min): A quick and easy stir fry made with a variety of fresh vegetables and a savory sauce
+[2025-07-15 23:49:26 PDT-0700] Jaspers Johnson: i would like 4 high carb meals that only contain beef as the protein
+[2025-07-15 23:49:34 PDT-0700] MaxShack Meal Planning: - *Beef Pasta* (30 min): Pasta tossed with juicy beef chunks and tomato sauce
+- *Beef Fried Rice* (20 min): Fried rice with tender beef strips and mixed vegetables
+- *Beef Lasagna* (60 min): Layers of pasta, cheese, and beef in a rich tomato sauce
+- *Beef and Potato Casserole* (45 min): Hearty casserole with beef and potatoes in a creamy sauce
